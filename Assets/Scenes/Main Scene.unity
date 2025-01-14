@@ -2041,7 +2041,7 @@ MonoBehaviour:
       Score Text","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 1249004489}
+    - {fileID: 0}
     - {fileID: 1641687273}
     - {fileID: 1103885891}
     - {fileID: 1162226238}
@@ -2862,7 +2862,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2986095105091660353, guid: 80d31ed5049123b4a864ffd9a4410c50, type: 3}
+  m_Sprite: {fileID: 3502715887467967171, guid: 151626b4990fcf8459395827e68ddc10, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2963,7 +2963,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.6, y: 0.19}
+    oldSize: {x: 0.6, y: 0.2}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
