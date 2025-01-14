@@ -234,7 +234,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 81.44995, y: -154.40002}
+  m_AnchoredPosition: {x: 48, y: -180.40002}
   m_SizeDelta: {x: -162.9, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &447538849
@@ -259,15 +259,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
+  m_sharedMaterial: {fileID: -4619150838918143790, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1037,7 +1037,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 81.44995, y: -90}
+  m_AnchoredPosition: {x: 48, y: -116}
   m_SizeDelta: {x: -162.9, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1103885893
@@ -1062,15 +1062,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
+  m_sharedMaterial: {fileID: -4619150838918143790, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1421,7 +1421,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 81.45508, y: -204.40002}
+  m_AnchoredPosition: {x: 48.005127, y: -230.40002}
   m_SizeDelta: {x: -162.9, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1162226240
@@ -1446,15 +1446,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
+  m_sharedMaterial: {fileID: -4619150838918143790, guid: 9dc8c190c9f044f42af501f8ba078b4a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278321800
+  m_fontColor: {r: 0.5320754, g: 0.0070273834, b: 0.0070273834, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2922,8 +2922,8 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"on_click_sprite","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 2986095105091660353, guid: 80d31ed5049123b4a864ffd9a4410c50, type: 3}
     - {fileID: 3502715887467967171, guid: 151626b4990fcf8459395827e68ddc10, type: 3}
+    - {fileID: -1805721541892880064, guid: 323a4d82f7922bc498cf542c340abe56, type: 3}
     - {fileID: 2986095105091660353, guid: 80d31ed5049123b4a864ffd9a4410c50, type: 3}
 --- !u!61 &2005049447
 BoxCollider2D:
