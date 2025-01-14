@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Resources/Sprites/back.png.meta
 guid: 251f5a82cf2962045b35c7b142b8fa74
+=======
+guid: a67c88054e9f33a4081f14f8ed2853ef
+>>>>>>> Stashed changes:Assets/Sprites/back.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -51,7 +55,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream:Assets/Resources/Sprites/back.png.meta
   spritePixelsToUnits: 16
+=======
+  spritePixelsToUnits: 32
+>>>>>>> Stashed changes:Assets/Sprites/back.png.meta
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

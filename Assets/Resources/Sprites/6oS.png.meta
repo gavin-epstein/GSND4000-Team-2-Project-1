@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Assets/Resources/Sprites/Table_unified.png.meta
-guid: 8b198443faa04a543b80bbca12c8711f
-=======
-guid: d6592ae6dfcbe1b4fb020f3755a9e72c
->>>>>>> Stashed changes:Assets/Sprites/Table_unified.png.meta
+guid: af1cfde18a9234948b68ed03707eea21
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3568675943530449872
-    second: Table_unified_0
+      213: -6668241770625022902
+    second: 6oS_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,11 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< Updated upstream:Assets/Resources/Sprites/Table_unified.png.meta
-  spritePixelsToUnits: 8
-=======
-  spritePixelsToUnits: 16
->>>>>>> Stashed changes:Assets/Sprites/Table_unified.png.meta
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Table_unified_0
+      name: 6oS_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 192
-        height: 108
+        width: 50
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 034b2631324897ec0800000000000000
-      internalID: -3568675943530449872
+      spriteID: a4449718075a573a0800000000000000
+      internalID: -6668241770625022902
       vertices: []
       indices: 
       edges: []
@@ -156,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Table_unified_0: -3568675943530449872
+      6oS_0: -6668241770625022902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
